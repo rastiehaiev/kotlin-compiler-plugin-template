@@ -9,7 +9,7 @@ plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.8.0"
 }
 
-rootProject.name = "kotlin-compiler-plugin-template"
+rootProject.name = "suspensify-kotlin-compiler-plugin"
 
 include("plugin-gradle")
 include("plugin-kotlin")
